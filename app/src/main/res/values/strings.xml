@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accelerometer for FB CloudFirestore</string>
+    <string name="action_settings">Settings</string>
+    <string name="listview_text">Obtener item por id</string>
+
+</resources>
